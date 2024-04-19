@@ -1,4 +1,4 @@
-# Complex Data Structures and Algorithm Implementation Project - CPCS-324
+# Complex Data Structures and Algorithm Implementation Project
 
 ## Introduction
 This project is designed to deepen understanding and skills in implementing advanced data structures and algorithms through practical programming tasks. The project focuses on various algorithm implementations including Horspool, Brute Force, Prim's, Kruskal's, and Dijkstra's algorithms in Java, providing a comprehensive approach to solving complex problems in computer science.
